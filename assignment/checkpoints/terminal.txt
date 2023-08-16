@@ -5,7 +5,7 @@ ls
 # 2 - What is the command for changing directories?
 cd
 # 3 - What is the command for going "up" a folder (to a parent directory)?
-..
+cd ..
 # 4 - What is a quick way to create a new folder?
 mkdir new-folder-name
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
